@@ -1,10 +1,10 @@
-0.002   2017-07-10 (PERLANCAR)
+0.002   2017-07-10  Released-By: PERLANCAR
 
 	- No functional changes.
 
 	- Replace Log::Any with Log::ger.
 
 
-0.001   2017-02-26 (PERLANCAR)
+0.001   2017-02-26  Released-By: PERLANCAR
 
         - First release.
